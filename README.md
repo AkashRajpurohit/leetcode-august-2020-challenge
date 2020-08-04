@@ -6,6 +6,7 @@
 
 ## Week 1 🚧
 1. [Detect Capital](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3409/) ➡️ [CPP Solution](Week1/detectCapital.cpp)
+2. [Design HashSet](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3410/) ➡️ [CPP Solution](Week1/designHashset.cpp)
 
 ## Where to find me? 🌟
 * [Website](https://akashwho.codes/)
