@@ -11,6 +11,7 @@
 4. [Power of Four](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3412/) ➡️ [CPP Solution](Week1/powerOfFour.cpp)
 5. [Add and Search Word - Data structure design](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3413/) ➡️ [CPP Solution](Week1/wordDictionary.cpp)
 6. [Find All Duplicates in an Array](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3414/) ➡️ [CPP Solution](Week1/findDuplicates.cpp)
+7. [Vertical Order Traversal of a Binary Tree](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3415/) ➡️ [CPP Solution](Week1/verticalTraversal.cpp)
 
 ## Where to find me? 🌟
 * [Website](https://akashwho.codes/)
