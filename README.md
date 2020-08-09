@@ -15,6 +15,7 @@
 
 ## Week 2 🚧
 1. [Path Sum III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3417/) ➡️ [CPP Solution](Week2/pathSum.cpp)
+2. [Rotting Oranges](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3418/) ➡️ [CPP Solution](Week2/orangesRotting.cpp)
 
 ## Where to find me? 🌟
 * [Website](https://akashwho.codes/)
