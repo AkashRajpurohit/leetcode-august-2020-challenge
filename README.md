@@ -17,6 +17,7 @@
 1. [Path Sum III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3417/) ➡️ [CPP Solution](Week2/pathSum.cpp)
 2. [Rotting Oranges](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3418/) ➡️ [CPP Solution](Week2/orangesRotting.cpp)
 3. [Excel Sheet Column Number](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3419/) ➡️ [CPP Solution](Week2/titleToNumber.cpp)
+4. [H Index](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3420/) ➡️ [CPP Solution](Week2/hIndex.cpp)
 
 ## Where to find me? 🌟
 * [Website](https://akashwho.codes/)
