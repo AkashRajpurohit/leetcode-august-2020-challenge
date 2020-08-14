@@ -13,13 +13,23 @@
 6. [Find All Duplicates in an Array](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3414/) ➡️ [CPP Solution](Week1/findDuplicates.cpp)
 7. [Vertical Order Traversal of a Binary Tree](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3415/) ➡️ [CPP Solution](Week1/verticalTraversal.cpp)
 
-## Week 2 🚧
+## Week 2 ✅
 1. [Path Sum III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3417/) ➡️ [CPP Solution](Week2/pathSum.cpp)
 2. [Rotting Oranges](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3418/) ➡️ [CPP Solution](Week2/orangesRotting.cpp)
 3. [Excel Sheet Column Number](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3419/) ➡️ [CPP Solution](Week2/titleToNumber.cpp)
 4. [H Index](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3420/) ➡️ [CPP Solution](Week2/hIndex.cpp)
 5. [Pascal's Triangle II](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3421/) ➡️ [CPP Solution](Week2/pascalTriangle2.cpp)
 6. [Iterator for Combination](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3422/) ➡️ [CPP Solution](Week2/combinationIterator.cpp)
+7. [Longest Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3423/) ➡️ [CPP Solution](Week2/longestPalindrome.cpp)
+
+## Week 3 🚧
+Coming Soon...
+
+## Week 4 🚧
+Coming Soon...
+
+## Week 5 🚧
+Coming Soon...
 
 ## Where to find me? 🌟
 * [Website](https://akashwho.codes/)
