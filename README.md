@@ -24,6 +24,7 @@
 
 ## Week 3 🚧
 1. [Non-overlapping Intervals](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3425/) ➡️ [CPP Solution](Week3/eraseOverlapIntervals.cpp)
+2. [Best Time to Buy and Sell Stock III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3426/) ➡️ [CPP Solution](Week3/maxProfit.cpp)
 
 ## Week 4 🚧
 Coming Soon...
