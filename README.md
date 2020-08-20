@@ -28,6 +28,7 @@
 3. [Distribute Candies to People](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3427/) ➡️ [CPP Solution](Week3/distributeCandies.cpp)
 4. [Numbers With Same Consecutive Differences](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3428/) ➡️ [CPP Solution](Week3/numsSameConsecDiff.cpp)
 5. [Goat Latin](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3429/) ➡️ [CPP Solution](Week3/toGoatLatin.cpp) [JS Solution](Week3/toGoatLatin.js)
+6. [Reorder List](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3430/) ➡️ [CPP Solution](Week3/reorderList.cpp)
 
 ## Week 4 🚧
 Coming Soon...
