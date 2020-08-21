@@ -22,13 +22,14 @@
 6. [Iterator for Combination](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3422/) ➡️ [CPP Solution](Week2/combinationIterator.cpp)
 7. [Longest Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3423/) ➡️ [CPP Solution](Week2/longestPalindrome.cpp)
 
-## Week 3 🚧
+## Week 3 ✅
 1. [Non-overlapping Intervals](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3425/) ➡️ [CPP Solution](Week3/eraseOverlapIntervals.cpp)
 2. [Best Time to Buy and Sell Stock III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3426/) ➡️ [CPP Solution](Week3/maxProfit.cpp)
 3. [Distribute Candies to People](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3427/) ➡️ [CPP Solution](Week3/distributeCandies.cpp)
 4. [Numbers With Same Consecutive Differences](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3428/) ➡️ [CPP Solution](Week3/numsSameConsecDiff.cpp)
 5. [Goat Latin](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3429/) ➡️ [CPP Solution](Week3/toGoatLatin.cpp) [JS Solution](Week3/toGoatLatin.js)
 6. [Reorder List](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3430/) ➡️ [CPP Solution](Week3/reorderList.cpp)
+7. [Sort Array By Parity](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3431/) ➡️ [CPP Solution](week3/sortArrayByParity.cpp)
 
 ## Week 4 🚧
 Coming Soon...
