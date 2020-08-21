@@ -29,7 +29,7 @@
 4. [Numbers With Same Consecutive Differences](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3428/) ➡️ [CPP Solution](Week3/numsSameConsecDiff.cpp)
 5. [Goat Latin](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3429/) ➡️ [CPP Solution](Week3/toGoatLatin.cpp) [JS Solution](Week3/toGoatLatin.js)
 6. [Reorder List](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3430/) ➡️ [CPP Solution](Week3/reorderList.cpp)
-7. [Sort Array By Parity](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3431/) ➡️ [CPP Solution](week3/sortArrayByParity.cpp)
+7. [Sort Array By Parity](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3431/) ➡️ [CPP Solution](Week3/sortArrayByParity.cpp)
 
 ## Week 4 🚧
 Coming Soon...
