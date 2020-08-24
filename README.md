@@ -38,6 +38,7 @@
 
 1. [Random Point in Non-overlapping Rectangles](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3433/) ➡️ [CPP Solution](Week4/randomPoint.cpp)
 2. [Stream of Characters](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3434/) ➡️ [CPP Solution](Week4/streamChecker.cpp)
+3. [Sum of Left Leaves](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3435/) ➡️ [CPP Solution](Week4/sumOfLeftLeaves.cpp)
 
 ## Week 5 🚧
 
