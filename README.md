@@ -40,6 +40,7 @@
 2. [Stream of Characters](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3434/) ➡️ [CPP Solution](Week4/streamChecker.cpp)
 3. [Sum of Left Leaves](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3435/) ➡️ [CPP Solution](Week4/sumOfLeftLeaves.cpp)
 4. [Minimum Cost For Tickets](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3435/) ➡️ [CPP Solution](Week4/mincostTickets.cpp)
+5. [Fizz Buzz](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3435/) ➡️ [CPP Solution](Week4/fizzBuzz.cpp)
 
 ## Week 5 🚧
 
