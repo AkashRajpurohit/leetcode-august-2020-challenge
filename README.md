@@ -34,7 +34,7 @@
 6. [Reorder List](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3430/) ➡️ [CPP Solution](Week3/reorderList.cpp)
 7. [Sort Array By Parity](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3431/) ➡️ [CPP Solution](Week3/sortArrayByParity.cpp)
 
-## Week 4 🚧
+## Week 4 ✅
 
 1. [Random Point in Non-overlapping Rectangles](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3433/) ➡️ [CPP Solution](Week4/randomPoint.cpp)
 2. [Stream of Characters](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3434/) ➡️ [CPP Solution](Week4/streamChecker.cpp)
@@ -42,6 +42,7 @@
 4. [Minimum Cost For Tickets](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3436/) ➡️ [CPP Solution](Week4/mincostTickets.cpp)
 5. [Fizz Buzz](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3437/) ➡️ [CPP Solution](Week4/fizzBuzz.cpp)
 6. [Find Right Interval](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3438/) ➡️ [CPP Solution](Week4/findRightInterval.cpp)
+7. [Implement Rand10() Using Rand7()](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3439/) ➡️ [CPP Solution](Week4/rand10.cpp)
 
 ## Week 5 🚧
 
