@@ -48,6 +48,12 @@
 
 Coming Soon...
 
+## Other Challenges 💪
+
+- [Leetcode July 2020 Challenge](https://github.com/AkashRajpurohit/leetcode-july-2020-challenge)
+
+- [Leetcode September 2020 Challenge](https://github.com/AkashRajpurohit/leetcode-september-2020-challenge)
+
 ## Where to find me? 🌟
 
 - [Website](https://akashwho.codes/)
