@@ -46,7 +46,7 @@
 
 ## Week 5 🚧
 
-Coming Soon...
+1. [Pancake Sort](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/553/week-5-august-29th-august-31st/3441/) ➡️ [CPP Solution](Week5/pancakeSort.cpp)
 
 ## Other Challenges 💪
 
