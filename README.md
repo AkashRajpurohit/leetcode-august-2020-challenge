@@ -44,10 +44,11 @@
 6. [Find Right Interval](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3438/) ➡️ [CPP Solution](Week4/findRightInterval.cpp)
 7. [Implement Rand10() Using Rand7()](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3439/) ➡️ [CPP Solution](Week4/rand10.cpp)
 
-## Week 5 🚧
+## Week 5 ✅
 
 1. [Pancake Sort](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/553/week-5-august-29th-august-31st/3441/) ➡️ [CPP Solution](Week5/pancakeSort.cpp)
 2. [Largest Component Size by Common Factor](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/553/week-5-august-29th-august-31st/3442/) ➡️ [CPP Solution](Week5/largestComponentSize.cpp)
+3. [Delete Node in a BST](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/553/week-5-august-29th-august-31st/3443/) ➡️ [CPP Solution](Week5/deleteNode.cpp)
 
 ## Other Challenges 💪
 
