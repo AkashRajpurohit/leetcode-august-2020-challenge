@@ -47,6 +47,7 @@
 ## Week 5 🚧
 
 1. [Pancake Sort](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/553/week-5-august-29th-august-31st/3441/) ➡️ [CPP Solution](Week5/pancakeSort.cpp)
+2. [Largest Component Size by Common Factor](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/553/week-5-august-29th-august-31st/3442/) ➡️ [CPP Solution](Week5/largestComponentSize.cpp)
 
 ## Other Challenges 💪
 
